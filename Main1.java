@@ -1,3 +1,4 @@
+//Question 2
 /*Task
 Given an integer, , print its first  multiples. Each multiple  
 (where ) should be printed on a new line in the form: N x i = result.
